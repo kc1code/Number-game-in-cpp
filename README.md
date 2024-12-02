@@ -11,6 +11,7 @@ A simple and interactive command-line game where the player guesses a randomly g
 **📂 Project Structure**
 
 |-- NumberGuessingGame/
+
     |-- main.cpp        # Source code for the game
     |-- README.md       # Project documentation
 
@@ -34,6 +35,7 @@ To run this project, you'll need:
       ./NumberGuessingGame
 
 **🕹️ How to Play**
+
 1. Run the program, and a random number between 1 and 100 will be chosen.
 2. Enter your guesses to try to find the number.
 3. The program will tell you if your guess is too high, too low, or correct.
@@ -58,17 +60,21 @@ Would you like to play again? (y/n): n
 Thank you for playing! Goodbye!
 
 **📜 License**
+
 This project is licensed under the MIT License.
 
 **🌟 Acknowledgments**
+
 1. Inspired by beginner C++ programming exercises.
 2. Random number generation using rand() seeded with time().
 
 **🤝 Contributing**
+
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
 
 **🧑‍💻 Author**
+
 Kajal Chaudhary
 [GitHub] (https://github.com/kc1code)
 [LinkedIn] (www.linkedin.com/in/kajal-chaudhary-xyz)
