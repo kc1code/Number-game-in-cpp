@@ -76,5 +76,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 **🧑‍💻 Author**
 
 Kajal Chaudhary
+
 [GitHub] (https://github.com/kc1code)
+
 [LinkedIn] (www.linkedin.com/in/kajal-chaudhary-xyz)
